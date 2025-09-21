@@ -1,30 +1,35 @@
-# Hi there! I'm Daria 👋
+# Hi, I'm Daria Novak  
 
-Welcome to my GitHub! I'm a web developer working across the full stack — from backend APIs to modern frontend frameworks. I'm currently building practical, real-world applications using  **ASP.NET MVC**, **Nuxt.js**, **React**.
+ **Computer Science student** at The National University of Ostroh Academy (2023–2027).  
+ Passionate about **Quality Assurance**, **software testing**, and building a strong foundation in development.  
+ Quick learner with attention to detail, eager to grow technical and soft skills while contributing to real-world projects.  
 
-## 🔧 Tech Stack
+---
 
-- **Frontend:** HTML, CSS, JavaScript, Vue (Nuxt), React (Vite)
-- **Backend:**  C# (ASP.NET MVC, Web API), basic Node.js
-- **CMS Experience:** EvoCMS
-- **Databases:** MySQL, MS SQL Server, PostgreSQL
-- **Other Tools:** Google OAuth integration (custom implementation without ASP.NET Identity), REST APIs, Docker, Postman
+## Tech Stack  
+- **Languages & Tools:** C#, HTML, CSS, JavaScript  
+- **QA & Dev Tools:** Postman, Docker, GitHub Issues  
 
-## 🛠 Featured Projects
+---
 
-### 🔐 ASP.NET MVC + Google OAuth Integration
-Highlights:
-- Custom user table (no ASP.NET Identity)
-- Google login integration via OAuth
-- Automatically creates user account on first login
+## Currently Learning  
+- Manual & automation testing principles  
+- Expanding my knowledge in software development and QA practices  
 
-## 🧾 Other Experience
+---
 
-- HR documents and payroll calculations (vacation pay, sick leave, maternity leave)
-- Organizational charts and staffing tables (e.g. for LLC "Sweet World" / NOVA)
-- UI copywriting, slide texts
+##  Soft Skills  
+- Teamwork  
+- Problem-solving  
+- Analytical thinking  
+- Responsibility  
+- Attention to detail  
 
-## 📬 Contact Me
+---
 
-- **Email:** daria.novak@oa.edu.ua
+##  Connect with me  
+- Email: [dashanovak233@gmail.com](mailto:dashanovak233@gmail.com) | [daria.novak@oa.edu.ua](mailto:daria.novak@oa.edu.ua)  
+- LinkedIn: [linkedin.com/in/daria-novak-084553384](http://www.linkedin.com/in/daria-novak-084553384)  
+- GitHub: [github.com/DariaNovak](https://github.com/DariaNovak)  
+
 
